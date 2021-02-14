@@ -1,0 +1,32 @@
+
+„
+java:S1488‚"aImmediately return this expression instead of assigning it to the temporary variable "tableName".(½¶Ùªùÿÿÿÿ8ÎýÇ‚ú.
+]	java:S125f"<This block of commented-out lines of code should be removed.(§Ûôøûÿÿÿÿ8ÎýÇ‚ú.
+b
+java:S2147o"ECombine this catch with the one at line 109, which has the same body.(åþáÿ8ÎýÇ‚ú.
+J
+java:S3011’",This accessibility bypass should be removed.(´úÒÐ8ÎýÇ‚ú.
+J
+java:S3011à",This accessibility bypass should be removed.(ˆˆê†8ÎýÇ‚ú.
+I
+java:S3011è",This accessibility bypass should be removed.(ÔÍµ[8ÎýÇ‚ú.
+c
+java:S2147±"ECombine this catch with the one at line 175, which has the same body.(åþáÿ8ÎýÇ‚ú.
+u
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¶É¦°øÿÿÿÿ8ÎýÇ‚ú.
+c
+java:S2147Ÿ"ECombine this catch with the one at line 157, which has the same body.(Å¡ß8ÎýÇ‚ú.
+c
+java:S2147–"ECombine this catch with the one at line 148, which has the same body.(åþáÿ8ÎýÇ‚ú.
+J
+java:S3011Ç",This accessibility bypass should be removed.(´úÒÐ8ÎýÇ‚ú.
+I
+java:S3011k",This accessibility bypass should be removed.(öšáˆ8ÎýÇ‚ú.
+L
+java:S10685"*Remove this unused "logger" private field.(…¸éÙüÿÿÿÿ8ÎýÇ‚ú.
+J
+java:S3011ð",This accessibility bypass should be removed.(ƒƒ˜8ÎýÇ‚ú.
+\
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À8ÎýÇ‚ú.
+^
+java:S1144Õ";Remove this unused private "modPrepareStatementSql" method.(›³¤ðøÿÿÿÿ8ÎýÇ‚ú.

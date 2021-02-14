@@ -1,0 +1,12 @@
+
+q
+java:S1104"OMake seq a static final constant or non-public and provide accessors if needed.(úäÔìüÿÿÿÿ8Ö—‚ú.
+w
+java:S1104"UMake user_name a static final constant or non-public and provide accessors if needed.(®ÑëÏüÿÿÿÿ8Ö—‚ú.
+r
+java:S1104"UMake routeBean a static final constant or non-public and provide accessors if needed.(¡´ÏÙ8Ö—‚ú.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷°ĞÖøÿÿÿÿ
+p
+java:S1104"SMake user_id a static final constant or non-public and provide accessors if needed.(„òì8Ö—‚ú.
+n	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„òì8Ö—‚ú.
+u	java:S116"TRename this field "user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÑëÏüÿÿÿÿ8Ö—‚ú.

@@ -1,0 +1,32 @@
+
+g	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Úûßâúÿÿÿÿ8¨Í£‚ú.
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(³«¿ıÿÿÿÿ8¨Í£‚ú.
+g
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(³«¿ıÿÿÿÿ8¨Í£‚ú.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(æ–ÁÀ8¨Í£‚ú.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦Ëß­8¨Í£‚ú.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ï„›¥üÿÿÿÿ8¨Í£‚ú.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ƒ¥ŸŠ8¨Í£‚ú.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ë¯Ú¨ÿÿÿÿÿ8¨Í£‚ú.
+b
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(ö¸ÈÈ8¨Í£‚ú.
+a
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(–«ï+8¨Í£‚ú.
+g
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(ÁğÙıÿÿÿÿ8¨Í£‚ú.
+a
+java:S1124."EReorder the modifiers to comply with the Java Language Specification.(«ÈÃb8¨Í£‚ú.
+g
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(ê¤“øÿÿÿÿ8¨Í£‚ú.
+g
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(ªëÛûÿÿÿÿ8¨Í£‚ú.
+[
+java:S3400v"9Remove this method and declare a constant for this value.(®şÑÔÿÿÿÿÿ8¨Í£‚ú.
